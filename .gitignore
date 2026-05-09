@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.spec
+
+# Build
+dist/
+build/
+
+# IDE
+.idea/
+
+# Scores
+.snake_highscore.json
+
+# Claude
+.claude/
